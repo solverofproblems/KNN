@@ -3,7 +3,6 @@ from sklearn.datasets import load_wine
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import classification_report
 import matplotlib.pyplot as plt
 import numpy as np
 
