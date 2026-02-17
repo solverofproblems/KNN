@@ -6,7 +6,7 @@ from sklearn.neighbors import KNeighborsClassifier
 import matplotlib.pyplot as plt
 import numpy as np
 
-#Aqui estamos carregando a base dedados necessária.
+#Aqui estamos carregando a base de dados necessária. Aqui nós temos uma base de dados que contém informações sobre vinhos.
 base_dados = load_wine() 
 
 #Aqui estamos defindo as variáveis que serão usadas para previsão
